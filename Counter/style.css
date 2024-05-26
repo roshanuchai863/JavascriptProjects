@@ -1,0 +1,12 @@
+body{
+display: flex;
+justify-content: center;
+}
+
+.btn {
+    margin-right: 10px;
+}
+
+.js-count{
+font-weight: bold;
+}
